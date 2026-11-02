@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Joki Grosir Aur Kuning",
+  "description": "Platform Belanja Grosir & Eceran Grosir Nusantara: Tanah Abang & Aur Kuning Bukittinggi. Belanja barang grosir tangan pertama langsung ke seluruh Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
